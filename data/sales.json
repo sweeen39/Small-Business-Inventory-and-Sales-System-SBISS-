@@ -1,0 +1,135 @@
+[
+    {
+        "sale_id": "SALE-B930BD",
+        "timestamp": "2026-08-04 00:24:49",
+        "items": [
+            {
+                "product_id": "p001",
+                "name": "Wireless Mouse Pro",
+                "unit_price": 39.9,
+                "quantity": 2,
+                "line_total": 79.8
+            }
+        ],
+        "subtotal": 79.8,
+        "discount_rate": 0.0,
+        "discount_amount": 0.0,
+        "tax_amount": 4.79,
+        "total": 84.59,
+        "gross_profit": 29.8
+    },
+    {
+        "sale_id": "SALE-8EF6B2",
+        "timestamp": "2026-08-04 00:38:06",
+        "items": [
+            {
+                "product_id": "p001",
+                "name": "Wireless Mouse Pro",
+                "unit_price": 39.9,
+                "quantity": 1,
+                "line_total": 39.9
+            }
+        ],
+        "subtotal": 39.9,
+        "discount_rate": 0.0,
+        "discount_amount": 0.0,
+        "tax_amount": 2.39,
+        "total": 42.29,
+        "gross_profit": 14.9
+    },
+    {
+        "sale_id": "SALE-EA15B7",
+        "timestamp": "2026-08-04 01:13:53",
+        "items": [
+            {
+                "product_id": "P040",
+                "name": "Keyboard",
+                "unit_price": 70.0,
+                "quantity": 2,
+                "line_total": 140.0
+            }
+        ],
+        "subtotal": 140.0,
+        "discount_rate": 0.05,
+        "discount_amount": 7.0,
+        "tax_amount": 7.98,
+        "total": 140.98,
+        "gross_profit": 33.0
+    },
+    {
+        "sale_id": "SALE-8434F9",
+        "timestamp": "2026-08-08 15:01:37",
+        "items": [
+            {
+                "product_id": "P010",
+                "name": "USB Cable",
+                "unit_price": 15.0,
+                "quantity": 2,
+                "line_total": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "discount_rate": 0.0,
+        "discount_amount": 0.0,
+        "tax_amount": 1.8,
+        "total": 31.8,
+        "gross_profit": 10.0
+    },
+    {
+        "sale_id": "SALE-1D670E",
+        "timestamp": "2026-08-08 22:02:22",
+        "items": [
+            {
+                "product_id": "P050",
+                "name": "Earphone",
+                "unit_price": 20.0,
+                "quantity": 2,
+                "line_total": 40.0
+            }
+        ],
+        "subtotal": 40.0,
+        "discount_rate": 0.0,
+        "discount_amount": 0.0,
+        "tax_amount": 2.4,
+        "total": 42.4,
+        "gross_profit": 20.0
+    },
+    {
+        "sale_id": "SALE-F2EF8B",
+        "timestamp": "2026-08-26 13:20:03",
+        "items": [
+            {
+                "product_id": "P020",
+                "name": "Headphone",
+                "unit_price": 30.0,
+                "quantity": 2,
+                "line_total": 60.0
+            }
+        ],
+        "subtotal": 60.0,
+        "discount_rate": 0.0,
+        "discount_amount": 0.0,
+        "tax_amount": 3.6,
+        "total": 63.6,
+        "gross_profit": 20.0
+    },
+    {
+        "sale_id": "SALE-63AFF5",
+        "timestamp": "2026-08-26 16:24:00",
+        "items": [
+            {
+                "product_id": "111",
+                "name": "sss",
+                "unit_price": 6000.0,
+                "quantity": 2,
+                "line_total": 12000.0
+            }
+        ],
+        "subtotal": 12000.0,
+        "discount_rate": 0.15,
+        "discount_amount": 1800.0,
+        "tax_amount": 612.0,
+        "total": 10812.0,
+        "gross_profit": 200.0
+    }
+]
