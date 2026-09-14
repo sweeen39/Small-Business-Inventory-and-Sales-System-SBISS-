@@ -1,8 +1,28 @@
 # Small Business Inventory and Sales System (SBISS)
 
+## Technologies Used
+
+- Python 3
+- JSON
+- UUID
+- Datetime
+- Modular Programming
+
+## Skills that demonstrated in this project
+
+- Python functions
+- Modular programming
+- File handling with JSON
+- Input validation
+- Inventory management
+- Sales calculations
+- Report generation
+- Error handling
+-----------------------------------------------------------------------------------------------------------------------
+
 ## 1. Introduction
 
-The Small Business Inventory and Sales System (SBISS) is a Python-based program used to manage products, inventory, sales transactions, and business reports.
+The Small Business Inventory and Sales System (SBISS) is a Python-based inventory and sales management system developed as part of my university programming project.
 
 The system allows the user to:
 
