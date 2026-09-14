@@ -65,8 +65,13 @@ SBISS/
 ├── utils.py
 │
 └── data/
-    ├── products.json
-    └── sales.json
+│   ├── products.json
+│   └── sales.json
+│
+└── screenshots/
+    ├── main-menu.png
+    ├── sales-receipt.png
+    └── reports.png
 ```
 
 ### File Description
@@ -228,7 +233,6 @@ It will also automatically reduce the product stock and increase the number of u
 A receipt will be displayed after the transaction is completed.
 
 ---
-
 ## 8. Saving Data
 
 Product and sales information is stored in JSON files.
@@ -253,8 +257,6 @@ The user can also manually save the data by selecting:
 ```text
 10. Save data
 ```
-
----
 
 ## 9. Generating Reports
 
@@ -284,7 +286,6 @@ Enter stock threshold: 5
 ```
 
 Products with stock below the selected threshold will then be displayed.
-
 ---
 
 ## 10. Exiting the Program
@@ -304,7 +305,6 @@ Data saved successfully.
 Thank you for using SBISS. Goodbye!
 ```
 
----
 
 ## Important Note
 
@@ -314,6 +314,6 @@ The program should always be started from:
 python main.py
 ```
 
-Do not run all Python files separately.
+## What I Learned
 
-`main.py` imports and connects the functions from `inventory.py`, `sales.py`, `reports.py`, and `utils.py`, allowing the complete system to work together.
+Through this project, I learned how to organize a Python program into multiple modules, store and retrieve data using JSON files, validate user input, process sales transactions, update inventory automatically, and generate business reports.
